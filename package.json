@@ -9,7 +9,12 @@
   "author": "siva",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.3.6",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.7",
     "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.6",
+    "nodemon": "^1.18.6"
   }
 }
